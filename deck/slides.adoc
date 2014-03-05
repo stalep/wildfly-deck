@@ -1,6 +1,7 @@
 //= WildFly 8: rapid innovation, lightweight, modular application server
 = What's new in WildFly 8 ?
-Arun Gupta ; Red Hat; @arungupta
+Aslak Knutsen ; Red Hat; @aslakknutsen
+Ståle Pedersen; Red Hat; @stalep
 include::attributes.adoc[]
 
 :experimental:
@@ -13,20 +14,38 @@ include::attributes.adoc[]
 :source-highlighter: coderay
 
 [.topic.source]
-== Arun Gupta
+== Aslak Knutsen
 
 ====
-* Director, Developer Advocacy, Red Hat Inc.
-* O'Reilly and McGraw Hill author
-* Fitness freak
+* Arquillian Team Lead, Red Hat Inc
+* Contributor on Forge, +++
+* Beer brewer!
 ====
 
 [NOTE ]
 [role="speaker"]
 ====
-* My name is Arun Gupta, and I drive community engagement efforts for JBoss at Red Hat
-* I've authored couple of O'Reilly best selling books and another one by McGraw Hill
-* I'm a workout nut as my kids call me and a runner
+* My name is Aslak Knutsen
+* I've worked for Red Hat for almost X years
+* 
+====
+
+
+[.topic.source]
+== Ståle Pedersen
+
+====
+* JBoss Performance Team Lead, Red Hat Inc.
+* Contributor on Hibernate, Forge, Wildfly
+* Æsh creator
+====
+
+[NOTE ]
+[role="speaker"]
+====
+* My name is Ståle Pedersen, and I am the middleware performance team lead
+* I've worked for Red Hat for almost 7 years, started with AOP, then MC, then Performance
+* When i have some spare time i try to throw frisbee
 ====
 
 [.topic.source]
